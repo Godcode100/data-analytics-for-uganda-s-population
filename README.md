@@ -1,0 +1,2 @@
+- data analytics project to visualise the data of ugandas populatio from recently concluded population census
+- 
